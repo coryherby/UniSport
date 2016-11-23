@@ -6,7 +6,7 @@ Our development stack was: Rails, Ruby, AngularJS, HTML, CSS, Javascript, Bootst
 
 An example of the site running can be found on heroku: [https://unisport.herokuapp.com/](https://unisport.herokuapp.com/)
 
-**Test Username**: pv14
+**Test Username**: pv14@ic.ac.uk
 
 **Test Password**: 123456
 
